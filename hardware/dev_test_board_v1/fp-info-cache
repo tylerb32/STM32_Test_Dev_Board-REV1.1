@@ -1,4 +1,4 @@
-19085789084411128
+19087410140209222
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83033,6 +83033,13 @@ STM32L010C6T6
 0
 48
 48
+tyjba_footprints
+Crystal_NX8045GB
+
+
+0
+2
+2
 tyjba_footprints
 Tooling_Hole-JLCPCB
 
