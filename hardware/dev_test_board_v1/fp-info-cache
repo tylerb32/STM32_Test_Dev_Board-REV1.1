@@ -1,4 +1,4 @@
-19087410140209222
+19089031257596049
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83040,6 +83040,13 @@ Crystal_NX8045GB
 0
 2
 2
+tyjba_footprints
+SW_CuK_JS202011CQN_DPDT_Straight
+CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
+switch DPDT
+0
+6
+6
 tyjba_footprints
 Tooling_Hole-JLCPCB
 
