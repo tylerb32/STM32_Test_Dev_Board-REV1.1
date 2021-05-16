@@ -1,4 +1,4 @@
-19089031257596049
+19090653703547793
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83041,12 +83041,12 @@ Crystal_NX8045GB
 2
 2
 tyjba_footprints
-SW_CuK_JS202011CQN_DPDT_Straight
-CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
+SW_Unknown_SPDT_Straight
+Random switch from AliExpress
 switch DPDT
 0
-6
-6
+3
+3
 tyjba_footprints
 Tooling_Hole-JLCPCB
 
@@ -83054,6 +83054,13 @@ Tooling_Hole-JLCPCB
 0
 0
 0
+tyjba_footprints
+UBS_Micro-B_Citzends_Aliexpress
+
+
+0
+11
+11
 tyjba_footprints
 USB_Micro-B_Korean-Hroparts-Elec_U-F-M5DD-W-L
 

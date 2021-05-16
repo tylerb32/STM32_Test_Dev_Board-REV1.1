@@ -41,7 +41,7 @@ U 1 1 609B002C
 P 1300 1500
 F 0 "J1" H 1357 1967 50  0000 C CNN
 F 1 "USB_B_Micro" H 1357 1876 50  0000 C CNN
-F 2 "Connector_USB:USB_Micro-B_GCT_USB3076-30-A" H 1450 1450 50  0001 C CNN
+F 2 "tyjba_footprints:UBS_Micro-B_Citzends_Aliexpress" H 1450 1450 50  0001 C CNN
 F 3 "~" H 1450 1450 50  0001 C CNN
 	1    1300 1500
 	1    0    0    -1  
