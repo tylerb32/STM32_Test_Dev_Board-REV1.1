@@ -1,5 +1,5 @@
 # STM32_Test_Dev_Board-REV1.1
-*Currently a work in progress
+*Currently a work in progress\n
 The purpose of this project is to gain experience with embedded system design, electronics and PCB design, and firmware and real-time software development in FreeRTOS.
 Status: Awaiting PCBs from manufacturer (*PCB currently untested).
 
