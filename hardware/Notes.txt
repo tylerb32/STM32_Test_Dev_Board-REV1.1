@@ -1,0 +1,3 @@
+Possible Improvements for Next Revision:
+- Power LED
+	- Nice to see if board is getting powered
