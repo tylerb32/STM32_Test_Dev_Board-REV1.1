@@ -1,3 +1,11 @@
 Possible Improvements for Next Revision:
 - Power LED
 	- Nice to see if board is getting powered
+- Test points
+- Don't underestimate flash memory requirements
+
+Testing:
+	- Shuts off after 18 seconds when plugged into usb power pack
+		* Does not occur when plugged into computer
+		- Could be a result of USB suspend mode?
+		- May need to program ftdi chip for usb charger use

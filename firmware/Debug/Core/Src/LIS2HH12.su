@@ -1,0 +1,5 @@
+LIS2HH12.c:10:9:LIS2HH12_Initialize	40	static
+LIS2HH12.c:48:19:LIS2HH12_ReadOrientation	48	static
+LIS2HH12.c:66:19:LIS2HH12_ReadRegister	48	static
+LIS2HH12.c:70:19:LIS2HH12_ReadRegisters	48	static
+LIS2HH12.c:74:19:LIS2HH12_WriteRegister	48	static
