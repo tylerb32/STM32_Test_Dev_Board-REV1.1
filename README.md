@@ -1,7 +1,7 @@
 # STM32_Test_Dev_Board-REV1.1
 *Currently a work in progress<br/>
 The purpose of this project is to gain experience with embedded system design, electronics and PCB design, and firmware/real-time software development in FreeRTOS.<br/>
-Status: Awaiting PCBs from manufacturer (*PCB currently untested).
+Status: PCBs assembled (Investigating accelerometer hardware implementation).
 
 Changes from REV 1:
 - Changed component selection for MCU, crystal oscillator, and accelerometer due to availability and cost constraints
